@@ -96,6 +96,14 @@ h6 {
   }
 }
 
+.rotate {
+  transform: rotate(-18deg);
+  font-style: italic;
+  -webkit-text-stroke: 1px gray;
+  -webkit-text-fill-color: white;
+  /* text-shadow:  */
+ }
+ 
 /* .img {
     width:150px;height:150px;
     border: solid 1px #555;
