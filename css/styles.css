@@ -1,8 +1,6 @@
-/*!
- * Start Bootstrap - Stylish Portfolio v5.0.7 (https://startbootstrap.com/template-overviews/stylish-portfolio)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
- */
+* {
+  margin: 0;
+}
 
 body,
 html {
@@ -96,14 +94,14 @@ h6 {
   }
 }
 
-.rotate {
+/* .rotate {
   transform: rotate(-18deg);
   font-style: italic;
   -webkit-text-stroke: 1px gray;
   -webkit-text-fill-color: white;
-  /* text-shadow:  */
- }
- 
+  text-shadow: 
+} */
+
 /* .img {
     width:150px;height:150px;
     border: solid 1px #555;
